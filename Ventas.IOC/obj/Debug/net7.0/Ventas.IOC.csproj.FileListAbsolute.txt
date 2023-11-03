@@ -1,0 +1,12 @@
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\bin\Debug\net7.0\Ventas.IOC.deps.json
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\bin\Debug\net7.0\Ventas.IOC.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\bin\Debug\net7.0\Ventas.IOC.pdb
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\obj\Debug\net7.0\Ventas.IOC.csproj.AssemblyReference.cache
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\obj\Debug\net7.0\Ventas.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\obj\Debug\net7.0\Ventas.IOC.AssemblyInfoInputs.cache
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\obj\Debug\net7.0\Ventas.IOC.AssemblyInfo.cs
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\obj\Debug\net7.0\Ventas.IOC.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\obj\Debug\net7.0\Ventas.IOC.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\obj\Debug\net7.0\refint\Ventas.IOC.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\obj\Debug\net7.0\Ventas.IOC.pdb
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\obj\Debug\net7.0\ref\Ventas.IOC.dll

@@ -1,0 +1,14 @@
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.Model\bin\Debug\net7.0\Ventas.Model.deps.json
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.Model\bin\Debug\net7.0\Ventas.Model.runtimeconfig.json
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.Model\bin\Debug\net7.0\Ventas.Model.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.Model\bin\Debug\net7.0\Ventas.Model.pdb
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.Model\obj\Debug\net7.0\Ventas.Model.csproj.AssemblyReference.cache
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.Model\obj\Debug\net7.0\Ventas.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.Model\obj\Debug\net7.0\Ventas.Model.AssemblyInfoInputs.cache
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.Model\obj\Debug\net7.0\Ventas.Model.AssemblyInfo.cs
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.Model\obj\Debug\net7.0\Ventas.Model.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.Model\obj\Debug\net7.0\Ventas.Model.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.Model\obj\Debug\net7.0\refint\Ventas.Model.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.Model\obj\Debug\net7.0\Ventas.Model.pdb
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.Model\obj\Debug\net7.0\Ventas.Model.genruntimeconfig.cache
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.Model\obj\Debug\net7.0\ref\Ventas.Model.dll

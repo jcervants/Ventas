@@ -1,0 +1,254 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.API\\Ventas.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.API\\Ventas.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.API\\Ventas.API.csproj",
+        "projectName": "Ventas.API",
+        "projectPath": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.API\\Ventas.API.csproj",
+        "packagesPath": "C:\\Users\\Jonathan C\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jonathan C\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.BLL\\Ventas.BLL.csproj": {
+                "projectPath": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.BLL\\Ventas.BLL.csproj"
+              },
+              "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.IOC\\Ventas.IOC.csproj": {
+                "projectPath": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.IOC\\Ventas.IOC.csproj"
+              },
+              "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.Model\\Ventas.Model.csproj": {
+                "projectPath": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.Model\\Ventas.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.BLL\\Ventas.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.BLL\\Ventas.BLL.csproj",
+        "projectName": "Ventas.BLL",
+        "projectPath": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.BLL\\Ventas.BLL.csproj",
+        "packagesPath": "C:\\Users\\Jonathan C\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jonathan C\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.Model\\Ventas.Model.csproj": {
+                "projectPath": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.Model\\Ventas.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.IOC\\Ventas.IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.IOC\\Ventas.IOC.csproj",
+        "projectName": "Ventas.IOC",
+        "projectPath": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.IOC\\Ventas.IOC.csproj",
+        "packagesPath": "C:\\Users\\Jonathan C\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.IOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jonathan C\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.Model\\Ventas.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.Model\\Ventas.Model.csproj",
+        "projectName": "Ventas.Model",
+        "projectPath": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.Model\\Ventas.Model.csproj",
+        "packagesPath": "C:\\Users\\Jonathan C\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jonathan C\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

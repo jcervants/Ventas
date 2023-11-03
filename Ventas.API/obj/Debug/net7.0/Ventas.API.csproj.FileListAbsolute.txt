@@ -1,0 +1,12 @@
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.API\bin\Debug\net7.0\Ventas.API.deps.json
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.API\bin\Debug\net7.0\Ventas.API.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.API\bin\Debug\net7.0\Ventas.API.pdb
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.API\obj\Debug\net7.0\Ventas.API.csproj.AssemblyReference.cache
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.API\obj\Debug\net7.0\Ventas.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.API\obj\Debug\net7.0\Ventas.API.AssemblyInfoInputs.cache
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.API\obj\Debug\net7.0\Ventas.API.AssemblyInfo.cs
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.API\obj\Debug\net7.0\Ventas.API.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.API\obj\Debug\net7.0\Ventas.API.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.API\obj\Debug\net7.0\refint\Ventas.API.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.API\obj\Debug\net7.0\Ventas.API.pdb
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.API\obj\Debug\net7.0\ref\Ventas.API.dll

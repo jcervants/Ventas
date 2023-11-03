@@ -1,0 +1,12 @@
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.DTO\bin\Debug\net7.0\Ventas.DTO.deps.json
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.DTO\bin\Debug\net7.0\Ventas.DTO.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.DTO\bin\Debug\net7.0\Ventas.DTO.pdb
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.DTO\obj\Debug\net7.0\Ventas.DTO.csproj.AssemblyReference.cache
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.DTO\obj\Debug\net7.0\Ventas.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.DTO\obj\Debug\net7.0\Ventas.DTO.AssemblyInfoInputs.cache
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.DTO\obj\Debug\net7.0\Ventas.DTO.AssemblyInfo.cs
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.DTO\obj\Debug\net7.0\Ventas.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.DTO\obj\Debug\net7.0\Ventas.DTO.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.DTO\obj\Debug\net7.0\refint\Ventas.DTO.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.DTO\obj\Debug\net7.0\Ventas.DTO.pdb
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.DTO\obj\Debug\net7.0\ref\Ventas.DTO.dll
