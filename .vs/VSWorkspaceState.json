@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Ventas.BLL",
+    "\\Ventas.DAL\\bin",
+    "\\Ventas.DAL\\bin\\Debug",
+    "\\Ventas.DAL\\bin\\Release",
+    "\\Ventas.DAL\\DbContext",
+    "\\Ventas.IOC\\bin",
+    "\\Ventas.IOC\\bin\\Release"
+  ],
+  "PreviewInSolutionExplorer": false
+}
