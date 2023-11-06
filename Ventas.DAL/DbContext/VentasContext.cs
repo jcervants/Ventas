@@ -5,13 +5,13 @@ using Ventas.Model;
 
 namespace Ventas.DAL.DbContext;
 
-public class VentasContext : Microsoft.EntityFrameworkCore.DbContext
+public partial class VentasContext : Microsoft.EntityFrameworkCore.DbContext
 {
     public VentasContext(DbContextOptions<VentasContext> options): base(options)
     {
     }
 
-    public  DbSet<Categoria> Categorias { get; set; }
+    public   DbSet<Categoria> Categorias { get; set; }
 
     public  DbSet<DetalleVenta> DetalleVentas { get; set; }
 
@@ -27,7 +27,7 @@ public class VentasContext : Microsoft.EntityFrameworkCore.DbContext
 
     public  DbSet<Usuario> Usuarios { get; set; }
 
-    public  DbSet<Venta> Ventas { get; set; }
+     public DbSet<Venta> Ventas { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.

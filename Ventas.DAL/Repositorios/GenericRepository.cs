@@ -19,14 +19,17 @@ namespace Ventas.DAL.Repositorios
         {
             _dbContext = dbContext;
         }
-        public Task<TModelo> Obtener(Expression<Func<TModelo, bool>> filtro)
+        public async Task<TModelo> Obtener(Expression<Func<TModelo, bool>> filtro)
         {
             try
-            {   return (Console.WriteLine("hell"));
+            {
+                TModelo modelo = await _dbContext.Set<TModelo>().FirstOrDefaultAsync(filtro);
+                return modelo;
             }
-            catch {
-                throw new NotImplementedException();
-             }
+            catch
+            {
+                throw;
+            }
         }
 
         public async Task<TModelo> Crear(TModelo modelo)
@@ -58,7 +61,7 @@ namespace Ventas.DAL.Repositorios
         public async Task<bool> Eliminar(TModelo modelo)   
         {
             try { 
-                _dbContext.Set<TModelo>().Update(modelo);
+                _dbContext.Set<TModelo>().Remove(modelo);
                 await _dbContext.SaveChangesAsync();
                 return true;
             }
@@ -68,15 +71,16 @@ namespace Ventas.DAL.Repositorios
             }
      }
 
-        public Task<IQueryable<TModelo>> Consultar(Expression<Func<TModelo, bool>> filtro = null)
+        public async Task<IQueryable<TModelo>> Consultar(Expression<Func<TModelo, bool>> filtro = null)
         {
             try
             {
-                IQueryable<TModelo> queryModelo
+                IQueryable<TModelo> queryModelo =  filtro ==  null ?   _dbContext.Set<TModelo>() :  _dbContext.Set<TModelo>().Where(filtro);
+                return queryModelo;
             }
             catch
             {
-                throw new NotImplementedException();
+                throw;
             }
         }
 

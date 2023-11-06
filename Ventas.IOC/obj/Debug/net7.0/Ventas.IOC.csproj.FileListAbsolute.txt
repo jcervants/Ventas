@@ -10,3 +10,14 @@ C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\obj\Debug\net7.0\Ventas.IOC.d
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\obj\Debug\net7.0\refint\Ventas.IOC.dll
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\obj\Debug\net7.0\Ventas.IOC.pdb
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\obj\Debug\net7.0\ref\Ventas.IOC.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\bin\Debug\net7.0\Ventas.BLL.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\bin\Debug\net7.0\Ventas.DAL.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\bin\Debug\net7.0\Ventas.DTO.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\bin\Debug\net7.0\Ventas.Model.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\bin\Debug\net7.0\Ventas.Utility.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\bin\Debug\net7.0\Ventas.BLL.pdb
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\bin\Debug\net7.0\Ventas.DAL.pdb
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\bin\Debug\net7.0\Ventas.Utility.pdb
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\bin\Debug\net7.0\Ventas.DTO.pdb
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\bin\Debug\net7.0\Ventas.Model.pdb
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\obj\Debug\net7.0\Ventas.IOC.csproj.CopyComplete
