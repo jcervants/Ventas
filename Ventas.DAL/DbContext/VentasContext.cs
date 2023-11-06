@@ -5,34 +5,29 @@ using Ventas.Model;
 
 namespace Ventas.DAL.DbContext;
 
-public partial class VentasContext : DbContext
+public class VentasContext : Microsoft.EntityFrameworkCore.DbContext
 {
-    public VentasContext()
+    public VentasContext(DbContextOptions<VentasContext> options): base(options)
     {
     }
 
-    public VentasContext(DbContextOptions<VentasContext> options)
-        : base(options)
-    {
-    }
+    public  DbSet<Categoria> Categorias { get; set; }
 
-    public virtual DbSet<Categoria> Categorias { get; set; }
+    public  DbSet<DetalleVenta> DetalleVentas { get; set; }
 
-    public virtual DbSet<DetalleVenta> DetalleVentas { get; set; }
+    public  DbSet<Menu> Menus { get; set; }
 
-    public virtual DbSet<Menu> Menus { get; set; }
+    public  DbSet<MenuRol> MenuRols { get; set; }
 
-    public virtual DbSet<MenuRol> MenuRols { get; set; }
+    public  DbSet<NumeroDocumento> NumeroDocumentos { get; set; }
 
-    public virtual DbSet<NumeroDocumento> NumeroDocumentos { get; set; }
+    public  DbSet<Producto> Productos { get; set; }
 
-    public virtual DbSet<Producto> Productos { get; set; }
+    public  DbSet<Rol> Rols { get; set; }
 
-    public virtual DbSet<Rol> Rols { get; set; }
+    public  DbSet<Usuario> Usuarios { get; set; }
 
-    public virtual DbSet<Usuario> Usuarios { get; set; }
-
-    public virtual DbSet<Venta> Ventas { get; set; }
+    public  DbSet<Venta> Ventas { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
