@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "+FeLMySWBS3IXsqQm0qtNlXIs51OYInCR67XUDDrPxI=",
-  "Source": "Ventas",
-  "BasePath": "_content/Ventas",
+  "Hash": "zfMqie7dArAUBSIZWIyXUOvXVGli8WzFSKGHn2qn0Rc=",
+  "Source": "Ventas.API",
+  "BasePath": "_content/Ventas.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

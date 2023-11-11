@@ -3461,19 +3461,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Cervantes\\.nuget\\packages\\": {}
+    "C:\\Users\\Jonathan C\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cervantes\\source\\repos\\jcervants\\Ventas\\Ventas.Model\\Ventas.Model.csproj",
+      "projectUniqueName": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.Model\\Ventas.Model.csproj",
       "projectName": "Ventas.Model",
-      "projectPath": "C:\\Users\\Cervantes\\source\\repos\\jcervants\\Ventas\\Ventas.Model\\Ventas.Model.csproj",
-      "packagesPath": "C:\\Users\\Cervantes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cervantes\\Source\\Repos\\jcervants\\Ventas\\Ventas.Model\\obj\\",
+      "projectPath": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.Model\\Ventas.Model.csproj",
+      "packagesPath": "C:\\Users\\Jonathan C\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Cervantes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jonathan C\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3526,7 +3526,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

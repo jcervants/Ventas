@@ -10,3 +10,8 @@ C:\Users\Jonathan C\source\repos\Ventas\Ventas.Utility\obj\Debug\net7.0\Ventas.U
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.Utility\obj\Debug\net7.0\refint\Ventas.Utility.dll
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.Utility\obj\Debug\net7.0\Ventas.Utility.pdb
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.Utility\obj\Debug\net7.0\ref\Ventas.Utility.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.Utility\bin\Debug\net7.0\Ventas.DTO.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.Utility\bin\Debug\net7.0\Ventas.Model.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.Utility\bin\Debug\net7.0\Ventas.DTO.pdb
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.Utility\bin\Debug\net7.0\Ventas.Model.pdb
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.Utility\obj\Debug\net7.0\Ventas.Utility.csproj.CopyComplete

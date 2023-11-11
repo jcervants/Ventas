@@ -10,3 +10,6 @@ C:\Users\Jonathan C\source\repos\Ventas\Ventas.DAL\obj\Debug\net7.0\Ventas.DAL.d
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.DAL\obj\Debug\net7.0\refint\Ventas.DAL.dll
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.DAL\obj\Debug\net7.0\Ventas.DAL.pdb
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.DAL\obj\Debug\net7.0\ref\Ventas.DAL.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.DAL\bin\Debug\net7.0\Ventas.Model.dll
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.DAL\bin\Debug\net7.0\Ventas.Model.pdb
+C:\Users\Jonathan C\source\repos\Ventas\Ventas.DAL\obj\Debug\net7.0\Ventas.DAL.csproj.CopyComplete
