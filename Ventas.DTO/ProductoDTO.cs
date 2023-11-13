@@ -12,11 +12,11 @@ namespace Ventas.DTO
 
         public string? Nombre { get; set; }
 
-        public int? IdCategoria { get; set; }
+        public int? DescripcionCategoria { get; set; }
 
         public int? Stock { get; set; }
 
-        public string? Precio { get; set; }
+        public string? PrecioTexto { get; set; }
 
         public int? EsActivo { get; set; }
     }

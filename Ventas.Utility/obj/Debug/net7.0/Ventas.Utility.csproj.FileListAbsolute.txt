@@ -15,3 +15,20 @@ C:\Users\Jonathan C\source\repos\Ventas\Ventas.Utility\bin\Debug\net7.0\Ventas.M
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.Utility\bin\Debug\net7.0\Ventas.DTO.pdb
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.Utility\bin\Debug\net7.0\Ventas.Model.pdb
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.Utility\obj\Debug\net7.0\Ventas.Utility.csproj.CopyComplete
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.Utility\obj\Debug\net7.0\Ventas.Utility.csproj.AssemblyReference.cache
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.Utility\obj\Debug\net7.0\Ventas.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.Utility\obj\Debug\net7.0\Ventas.Utility.AssemblyInfoInputs.cache
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.Utility\obj\Debug\net7.0\Ventas.Utility.AssemblyInfo.cs
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.Utility\obj\Debug\net7.0\Ventas.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.Utility\obj\Debug\net7.0\Ventas.Utility.dll
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.Utility\obj\Debug\net7.0\refint\Ventas.Utility.dll
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.Utility\obj\Debug\net7.0\Ventas.Utility.pdb
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.Utility\bin\Debug\net7.0\Ventas.Utility.deps.json
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.Utility\bin\Debug\net7.0\Ventas.Utility.dll
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.Utility\bin\Debug\net7.0\Ventas.Utility.pdb
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.Utility\bin\Debug\net7.0\Ventas.DTO.dll
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.Utility\bin\Debug\net7.0\Ventas.Model.dll
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.Utility\bin\Debug\net7.0\Ventas.DTO.pdb
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.Utility\bin\Debug\net7.0\Ventas.Model.pdb
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.Utility\obj\Debug\net7.0\Ventas.Utility.csproj.CopyComplete
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.Utility\obj\Debug\net7.0\ref\Ventas.Utility.dll

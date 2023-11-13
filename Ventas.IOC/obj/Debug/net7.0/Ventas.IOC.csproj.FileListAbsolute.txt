@@ -21,3 +21,11 @@ C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\bin\Debug\net7.0\Ventas.Utili
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\bin\Debug\net7.0\Ventas.DTO.pdb
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\bin\Debug\net7.0\Ventas.Model.pdb
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.IOC\obj\Debug\net7.0\Ventas.IOC.csproj.CopyComplete
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.IOC\obj\Debug\net7.0\Ventas.IOC.csproj.AssemblyReference.cache
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.IOC\obj\Debug\net7.0\Ventas.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.IOC\obj\Debug\net7.0\Ventas.IOC.AssemblyInfoInputs.cache
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.IOC\obj\Debug\net7.0\Ventas.IOC.AssemblyInfo.cs
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.IOC\obj\Debug\net7.0\Ventas.IOC.csproj.CoreCompileInputs.cache
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.IOC\obj\Debug\net7.0\Ventas.IOC.dll
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.IOC\obj\Debug\net7.0\refint\Ventas.IOC.dll
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.IOC\obj\Debug\net7.0\Ventas.IOC.pdb

@@ -13,3 +13,18 @@ C:\Users\Jonathan C\source\repos\Ventas\Ventas.DAL\obj\Debug\net7.0\ref\Ventas.D
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.DAL\bin\Debug\net7.0\Ventas.Model.dll
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.DAL\bin\Debug\net7.0\Ventas.Model.pdb
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.DAL\obj\Debug\net7.0\Ventas.DAL.csproj.CopyComplete
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DAL\bin\Debug\net7.0\Ventas.DAL.deps.json
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DAL\bin\Debug\net7.0\Ventas.DAL.dll
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DAL\bin\Debug\net7.0\Ventas.DAL.pdb
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DAL\bin\Debug\net7.0\Ventas.Model.dll
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DAL\bin\Debug\net7.0\Ventas.Model.pdb
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DAL\obj\Debug\net7.0\Ventas.DAL.csproj.AssemblyReference.cache
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DAL\obj\Debug\net7.0\Ventas.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DAL\obj\Debug\net7.0\Ventas.DAL.AssemblyInfoInputs.cache
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DAL\obj\Debug\net7.0\Ventas.DAL.AssemblyInfo.cs
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DAL\obj\Debug\net7.0\Ventas.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DAL\obj\Debug\net7.0\Ventas.DAL.csproj.CopyComplete
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DAL\obj\Debug\net7.0\Ventas.DAL.dll
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DAL\obj\Debug\net7.0\refint\Ventas.DAL.dll
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DAL\obj\Debug\net7.0\Ventas.DAL.pdb
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DAL\obj\Debug\net7.0\ref\Ventas.DAL.dll

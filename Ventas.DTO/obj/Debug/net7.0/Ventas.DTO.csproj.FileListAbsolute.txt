@@ -10,3 +10,15 @@ C:\Users\Jonathan C\source\repos\Ventas\Ventas.DTO\obj\Debug\net7.0\Ventas.DTO.d
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.DTO\obj\Debug\net7.0\refint\Ventas.DTO.dll
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.DTO\obj\Debug\net7.0\Ventas.DTO.pdb
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.DTO\obj\Debug\net7.0\ref\Ventas.DTO.dll
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DTO\bin\Debug\net7.0\Ventas.DTO.deps.json
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DTO\bin\Debug\net7.0\Ventas.DTO.dll
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DTO\bin\Debug\net7.0\Ventas.DTO.pdb
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DTO\obj\Debug\net7.0\Ventas.DTO.csproj.AssemblyReference.cache
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DTO\obj\Debug\net7.0\Ventas.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DTO\obj\Debug\net7.0\Ventas.DTO.AssemblyInfoInputs.cache
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DTO\obj\Debug\net7.0\Ventas.DTO.AssemblyInfo.cs
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DTO\obj\Debug\net7.0\Ventas.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DTO\obj\Debug\net7.0\Ventas.DTO.dll
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DTO\obj\Debug\net7.0\refint\Ventas.DTO.dll
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DTO\obj\Debug\net7.0\Ventas.DTO.pdb
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.DTO\obj\Debug\net7.0\ref\Ventas.DTO.dll

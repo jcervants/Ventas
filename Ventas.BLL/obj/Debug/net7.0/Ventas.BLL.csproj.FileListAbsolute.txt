@@ -19,3 +19,24 @@ C:\Users\Jonathan C\source\repos\Ventas\Ventas.BLL\bin\Debug\net7.0\Ventas.DTO.p
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.BLL\bin\Debug\net7.0\Ventas.Model.pdb
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.BLL\bin\Debug\net7.0\Ventas.Utility.pdb
 C:\Users\Jonathan C\source\repos\Ventas\Ventas.BLL\obj\Debug\net7.0\Ventas.BLL.csproj.CopyComplete
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.BLL\bin\Debug\net7.0\Ventas.BLL.deps.json
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.BLL\bin\Debug\net7.0\Ventas.BLL.dll
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.BLL\bin\Debug\net7.0\Ventas.BLL.pdb
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.BLL\bin\Debug\net7.0\Ventas.DAL.dll
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.BLL\bin\Debug\net7.0\Ventas.DTO.dll
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.BLL\bin\Debug\net7.0\Ventas.Model.dll
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.BLL\bin\Debug\net7.0\Ventas.Utility.dll
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.BLL\bin\Debug\net7.0\Ventas.DAL.pdb
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.BLL\bin\Debug\net7.0\Ventas.DTO.pdb
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.BLL\bin\Debug\net7.0\Ventas.Model.pdb
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.BLL\bin\Debug\net7.0\Ventas.Utility.pdb
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.BLL\obj\Debug\net7.0\Ventas.BLL.csproj.AssemblyReference.cache
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.BLL\obj\Debug\net7.0\Ventas.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.BLL\obj\Debug\net7.0\Ventas.BLL.AssemblyInfoInputs.cache
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.BLL\obj\Debug\net7.0\Ventas.BLL.AssemblyInfo.cs
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.BLL\obj\Debug\net7.0\Ventas.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.BLL\obj\Debug\net7.0\Ventas.BLL.csproj.CopyComplete
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.BLL\obj\Debug\net7.0\Ventas.BLL.dll
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.BLL\obj\Debug\net7.0\refint\Ventas.BLL.dll
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.BLL\obj\Debug\net7.0\Ventas.BLL.pdb
+C:\Users\Cervantes\source\repos\jcervants\Ventas\Ventas.BLL\obj\Debug\net7.0\ref\Ventas.BLL.dll

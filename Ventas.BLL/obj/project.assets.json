@@ -18,19 +18,6 @@
           }
         }
       },
-      "AutoMapper.Extensions.Microsoft.DependencyInjection/12.0.1": {
-        "type": "package",
-        "dependencies": {
-          "AutoMapper": "[12.0.1]",
-          "Microsoft.Extensions.Options": "6.0.0"
-        },
-        "compile": {
-          "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
-        }
-      },
       "Azure.Core/1.24.0": {
         "type": "package",
         "dependencies": {
@@ -1098,7 +1085,6 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "AutoMapper": "12.0.1",
-          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
           "Ventas.DTO": "1.0.0",
           "Ventas.Model": "1.0.0"
         },
@@ -1125,20 +1111,6 @@
         "icon.png",
         "lib/netstandard2.1/AutoMapper.dll",
         "lib/netstandard2.1/AutoMapper.xml"
-      ]
-    },
-    "AutoMapper.Extensions.Microsoft.DependencyInjection/12.0.1": {
-      "sha512": "+g/K+Vpe3gGMKGzjslMOdqNlkikScDjWfVvmWTayrDHaG/n2pPmFBMa+jKX1r/h6BDGFdkyRjAuhFE3ykW+r1g==",
-      "type": "package",
-      "path": "automapper.extensions.microsoft.dependencyinjection/12.0.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "README.md",
-        "automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
-        "automapper.extensions.microsoft.dependencyinjection.nuspec",
-        "icon.png",
-        "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
       ]
     },
     "Azure.Core/1.24.0": {
@@ -3313,19 +3285,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jonathan C\\.nuget\\packages\\": {}
+    "C:\\Users\\Cervantes\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.BLL\\Ventas.BLL.csproj",
+      "projectUniqueName": "C:\\Users\\Cervantes\\source\\repos\\jcervants\\Ventas\\Ventas.BLL\\Ventas.BLL.csproj",
       "projectName": "Ventas.BLL",
-      "projectPath": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.BLL\\Ventas.BLL.csproj",
-      "packagesPath": "C:\\Users\\Jonathan C\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.BLL\\obj\\",
+      "projectPath": "C:\\Users\\Cervantes\\source\\repos\\jcervants\\Ventas\\Ventas.BLL\\Ventas.BLL.csproj",
+      "packagesPath": "C:\\Users\\Cervantes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Cervantes\\source\\repos\\jcervants\\Ventas\\Ventas.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jonathan C\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Cervantes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3339,17 +3311,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.DAL\\Ventas.DAL.csproj": {
-              "projectPath": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.DAL\\Ventas.DAL.csproj"
+            "C:\\Users\\Cervantes\\source\\repos\\jcervants\\Ventas\\Ventas.DAL\\Ventas.DAL.csproj": {
+              "projectPath": "C:\\Users\\Cervantes\\source\\repos\\jcervants\\Ventas\\Ventas.DAL\\Ventas.DAL.csproj"
             },
-            "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.DTO\\Ventas.DTO.csproj": {
-              "projectPath": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.DTO\\Ventas.DTO.csproj"
+            "C:\\Users\\Cervantes\\source\\repos\\jcervants\\Ventas\\Ventas.DTO\\Ventas.DTO.csproj": {
+              "projectPath": "C:\\Users\\Cervantes\\source\\repos\\jcervants\\Ventas\\Ventas.DTO\\Ventas.DTO.csproj"
             },
-            "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.Model\\Ventas.Model.csproj": {
-              "projectPath": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.Model\\Ventas.Model.csproj"
+            "C:\\Users\\Cervantes\\source\\repos\\jcervants\\Ventas\\Ventas.Model\\Ventas.Model.csproj": {
+              "projectPath": "C:\\Users\\Cervantes\\source\\repos\\jcervants\\Ventas\\Ventas.Model\\Ventas.Model.csproj"
             },
-            "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.Utility\\Ventas.Utility.csproj": {
-              "projectPath": "C:\\Users\\Jonathan C\\source\\repos\\Ventas\\Ventas.Utility\\Ventas.Utility.csproj"
+            "C:\\Users\\Cervantes\\source\\repos\\jcervants\\Ventas\\Ventas.Utility\\Ventas.Utility.csproj": {
+              "projectPath": "C:\\Users\\Cervantes\\source\\repos\\jcervants\\Ventas\\Ventas.Utility\\Ventas.Utility.csproj"
             }
           }
         }
@@ -3379,7 +3351,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
